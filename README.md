@@ -48,7 +48,9 @@ Artificial Intelligence effects in humanity, extraterrestrial life, math, scienc
 * **Fruit on pizza?** Banana
 * **My coffee order:** Regular Americano, But most importantly coffee from Colombia.
 * **My hometown:** Medellín, Colombia
-* **Living** Stockholm, Sweden
+* **Living:** Stockholm, Sweden
+* **Favorite Series:** X-Files
+* **Hobby:** Driving cars
 * **My favorite GIF:**
 
 ![Sleep](https://media.giphy.com/media/M8tkmfrINxdhH2zQgi/giphy.gif "No Sleeping")
