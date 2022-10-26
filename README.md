@@ -5,7 +5,7 @@
 ### My work hours:
 Starting my date with some time for. reading emails, review PRs and having meetings. You can reach me by Slack during these times
 
-My working hours are usually 9 to 6ish, I'm available by Slack pretty much 24/7 (but I do NOT expect the same from my team). Do not hesitate to call in the middle of the night if that is important.
+My working hours are usually 9 to 6ish, I'm available by Slack pretty much 24/7 (I do not really care about time but I do NOT expect the same from my team). Do not hesitate to call in the middle of the night if that is important.
 
 When I'm on vacation, I will be available for urgent things. It's definition depends on what I'm working on at the time, but you can ask the following questions to determine it.
 
