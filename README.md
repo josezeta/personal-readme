@@ -3,7 +3,7 @@
 ## How to work José Sepúlveda
 
 ### My work hours:
-Starting my date with some time for. reading emails, review PRs and having meetings. You can reach me by Slack during these times
+Starting my date with some time for. reading emails, review PRs, some coding. You can reach me by Slack during these times (There is a block between 10 A< and 11 AM in which i will not able to slack back, critical decision making in booked for that time).
 
 My working hours are usually 9 to 6ish, I'm available by Slack pretty much 24/7 (I do not really care about it but I do NOT expect the same from my team). Do not hesitate to call in the middle of the night if that is important.
 
