@@ -3,9 +3,9 @@
 ## How to work José Sepúlveda
 
 ### My work hours:
-Starting my date with some time for. reading emails, review PRs, some coding. You can reach me by Slack during these times (There is a block between 10 AM and 11 AM in which i will not able to slack back, critical decision making in booked for that time).
+Starting my date with some time for. reading emails, review PRs, some coding. You can reach me by Slack during these times (There is a block between 10 AM and 11 AM in which I will not able to slack back, critical decision-making in booked for that time).
 
-My working hours are usually 9 to 6ish, I'm available by Slack pretty much 24/7 (I do not really care about it but I do NOT expect the same from my team). Do not hesitate to call in the middle of the night if that is important.
+My working hours are usually 9 to 6ish, I'm available by Slack pretty much 24/7 (I do not really care about it, but I do NOT expect the same from my team). Do not hesitate to call in the middle of the night if that is important.
 
 When I'm on vacation, I will be available for urgent things. It's definition depends on what I'm working on at the time, but you can ask the following questions to determine it.
 
@@ -31,7 +31,7 @@ I like giving feedback in a 1:1 context (versus large meetings), so I may follow
 
 
 ### How do I like to receive feedback?
-I prefer in person, but slack and email are totally great if that's the way you're most comfortable communicating. Sometimes it's easier to get things in writing and then have a follow up conversation.
+I prefer in person, but slack and email are totally great if that's the way you're most comfortable communicating. Sometimes it's easier to get things in writing and then have a follow-up conversation.
 
 I am very open to hearing feedback **anytime**. If there's something I can do to make your work easier, or something I'm doing is causing you stress, PLEASE speak up. Do not hesitate to do it directly.
 
